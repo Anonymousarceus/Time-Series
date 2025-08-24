@@ -1,4 +1,4 @@
-# Smart System Monitor
+# Time Series Anamoly Detection
 
 A tool that watches your data and tells you when something unusual happens.
 
